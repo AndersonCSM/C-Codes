@@ -1,3 +1,7 @@
+/*
+JOGO DA VELHA EM C usando matrizes
+Anderson Carlos da Silva Morais
+*/
 #include <stdio.h>
 
 #define SIZE 3
